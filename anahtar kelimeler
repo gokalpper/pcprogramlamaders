@@ -19,6 +19,7 @@ return
 none
 global 
 from
+del
 
 
 Python' da kullanıllan operatörler 
