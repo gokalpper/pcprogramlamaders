@@ -24,7 +24,8 @@ del
 class
 self
 try 
-
+except
+finally
 
 Python' da kullanıllan operatörler 
 MATEMATİKSEL OPERATÖRLER
