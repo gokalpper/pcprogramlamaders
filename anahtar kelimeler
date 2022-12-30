@@ -26,6 +26,7 @@ self
 try 
 except
 finally
+with
 
 Python' da kullanıllan operatörler 
 MATEMATİKSEL OPERATÖRLER
